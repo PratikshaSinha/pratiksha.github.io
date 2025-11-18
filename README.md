@@ -40,7 +40,7 @@ A dedicated and hardworking BCA student seeking an entry-level position or inter
 
 ## 🚀 Projects
 
-### 1. Personal Web Projects
+### Personal Web Projects
 - Developed several self-initiated projects using **HTML, CSS, and JavaScript**, demonstrating responsive web design and basic interactivity.
 - Practiced version control using **GitHub** to manage and host projects.
 - Simple calculator that simply Calculate mathematical problems.
